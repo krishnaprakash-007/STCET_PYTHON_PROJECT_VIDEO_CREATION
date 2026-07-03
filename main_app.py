@@ -99,7 +99,7 @@ if os.path.exists("PragyanAI_Transperent.png"):
     st.image("PragyanAI_Transperent.png")
 
 st.title("Govind - Multimedia Merger")
-st.image("spider-man-brand-5433x2160-26134.jpg")
+
 st.markdown("Upload multiple images, specify timing, and add audio from a file or YouTube.")
 
 with st.sidebar:
